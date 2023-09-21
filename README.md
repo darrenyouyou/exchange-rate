@@ -30,7 +30,7 @@
 - 外部 API：openExchangeRate API
 - 使用者界面：CoreUI 
 
-## 屏幕截圖
+## 畫面顯示
 
 ![應用程式截圖](photo2.png)
 ![應用程式截圖](photo3.png)
